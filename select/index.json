@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "暫し空に祈りて",
+  "base_artist": "高橋洋子",
+  "createdAt": "2026-01-03T06:24:51.460461Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "暫し空に祈りて",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_暫し空に祈りて_高橋_洋子.txt"
+    }
+  ]
+}
